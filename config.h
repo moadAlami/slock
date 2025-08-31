@@ -2,6 +2,13 @@
 static const char *user  = "mouad";
 static const char *group = "wheel";
 
+/*Font settings for the time text*/
+static const float textsize=64.0;
+static const char* textfamily="serif";
+static const double textcolorred=255;
+static const double textcolorgreen=255;
+static const double textcolorblue=255;
+
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "black",     /* after initialization */
 	[INPUT] =  "#005577",   /* during input */

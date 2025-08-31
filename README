@@ -25,4 +25,4 @@ Simply invoke the 'slock' command. To get out of it, enter your password.
 
 Patches
 -------
-pam auth
+pam auth - showtime
